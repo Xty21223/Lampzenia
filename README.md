@@ -5,5 +5,6 @@
 #### ⚠️ COMING SOON ⚠️
 We are currently working on the game, pre-alpha will be avalible soon!
 ## :earth_americas: Web Edition :earth_americas:
+#### The web edition has a graphic interface, but you can't save your data.
 #### ⚠️ COMING SOON ⚠️
-The web edition has a graphic interface, but you can't save your data.
+We are currently working on the game, pre-alpha web will be avalible soon!
