@@ -186,5 +186,6 @@ def encounter(c_name, c_hp, c_ac, disadvantage, player_name, player_ac, player_h
       clear()
   
 # while True:
+playerdata = ["hi", 10, 100, 1, 0, ["0001"], ["greatsword"], ["0001", "3847"]]
 encounter("big wad of plastic", 10, 15, False, "hi", 10, 100, 1, 0, ["0001"], ["greatsword"], ["0001", "3847"])
 # encounter(str, int, bool, str, int, int, int, lst, lst, lst)
